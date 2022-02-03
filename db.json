@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sergio Guadarrama",
+      "empresa": "home",
+      "email": "correo@correo.com",
+      "telefono": "12345789",
+      "notas": "hola cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Emily Violeta",
+      "empresa": "Diseño",
+      "email": "correo123@correo.com",
+      "telefono": "987624321",
+      "notas": "hola cliente Emily",
+      "id": 2
+    },
+    {
+      "nombre": "Chester",
+      "empresa": "Codigos",
+      "email": "chester@correo.com",
+      "telefono": "789456123",
+      "notas": "es un perro, el mejor del mundo",
+      "id": 4
+    }
+  ]
+}
